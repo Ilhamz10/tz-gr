@@ -1,0 +1,20 @@
+header {
+	background: #2196f3;
+	color: white;
+	margin-bottom: 48px;
+}
+
+.link {
+	display: block;
+	padding: 24px 29px;
+	color: rgba(255, 255, 255, 0.7);
+}
+
+.headerContent {
+	display: flex;
+}
+
+.link.active {
+	background: #1e88e5;
+	color: rgba(255, 255, 255, 1);
+}
